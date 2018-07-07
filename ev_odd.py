@@ -1,7 +1,7 @@
 a= raw_input()
 b=int(a)
 if(b%2==0):
-	st= "even"
+	st= "Even"
 else:
-	st="odd"
+	st="Odd"
 print(st)
