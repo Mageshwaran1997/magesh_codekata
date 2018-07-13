@@ -1,4 +1,5 @@
-a= int(raw_input())
-b= int(raw_input())
-c= a**b
-print c
+a,b= raw_input().split()
+c= int(a)
+d= int(b)
+e= c**d
+print (e)
